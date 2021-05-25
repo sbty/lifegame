@@ -38,7 +38,7 @@ typings/
 lib/*.js
 test/*.js
 *.map
-dist
+dist/lib
 
 #vs-code
 *.code-workspace
